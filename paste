@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+xdotool type --delay 0 --clearmodifiers "$(xsel --secondary -o -c)"
